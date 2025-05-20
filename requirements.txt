@@ -2,5 +2,4 @@ numpy
 scikit-learn
 streamlit
 Pillow
-opencv-python
 scipy 
